@@ -1,0 +1,13 @@
+# Escolha apenas o que for usar:
+
+# Claude (pago, alta qualidade)
+anthropic>=0.40.0
+
+# Gemini (gratuito com GOOGLE_API_KEY)
+google-generativeai>=0.8.0
+
+# Ollama (gratuito e local — também precisa do requests)
+requests>=2.31.0
+
+# Suporte a arquivo .env
+python-dotenv>=1.0.0
