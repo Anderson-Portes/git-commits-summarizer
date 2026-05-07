@@ -415,7 +415,7 @@ def generate_summary(
 
 DEFAULT_MODELS = {
     "claude": "claude-opus-4-6",
-    "gemini": "gemini-2.0-flash",
+    "gemini": "gemini-2.5-flash",
     "ollama": "llama3.2",
 }
 
